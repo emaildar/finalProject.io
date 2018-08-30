@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+#canvas {
+    height: 320px;
+    width: 320px;
+    background-color: #f0f0f0;
+    margin: auto;
+}
+
+.box {
+    float: left;
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+}
+
+.plane {
+    display: block;
+    margin: 18.075px auto;
+    width: 50px;
+}
+
+.monster {
+    display: block;
+    margin: 15px auto;
+    width: 40px;
+}
+
+.bom {
+    display: block;
+    margin: 15px auto;
+    width: 40px;
+}
